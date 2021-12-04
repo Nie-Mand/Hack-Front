@@ -1,0 +1,19 @@
+.oaerror{
+    width:100%;
+    background-color: transparent;
+    padding:12px;
+    /*border-left-width:3px;*/
+    margin:6px auto;
+    font-size: 16px;
+    display: flex;
+  }
+  
+  .danger{
+    /*border-left-color: rgb(203,1,1); /* Left side border color */
+    background-color: rgba(217, 83, 79, 0.1); /*Same color as the left border with reduced alpha to 0.1*/
+  }
+  
+  .danger strong{
+    color:rgb(203,1,1);
+  }
+  
